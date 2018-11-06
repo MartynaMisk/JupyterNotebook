@@ -1,7 +1,7 @@
 # Numpy.Random Package
 Random sampling (numpy.random) package contains simple random data, permutations, distributions and random generator sections and each contains a number of functions that help us plot and generate random sampling
 
-![A picture depicting my first experience with programming](http://www.slate.com/content/dam/slate/articles/life/classes/2015/08/150827_CLASSES_Coding.jpg.CROP.promo-xlarge2.jpg)
+![LOGO](https://github.com/MartynaMisk/NumpyRandom/blob/master/NumPy_logo.png)
 
 ## Main area of focus:
 1. Explanation of the overall purpose of the package. 
