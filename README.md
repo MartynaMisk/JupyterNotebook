@@ -44,3 +44,4 @@ Simple explanation of my understanding is that every random funciton runs someth
 7. Binomial https://bigdata-madesimple.com/how-to-implement-these-5-powerful-probability-distributions-in-python/
 8. Distribution https://data-flair.training/blogs/scipy-tutorial/ 
 9. Normal and Poisson Distribution https://data-flair.training/blogs/python-probability-distributions/
+10. Seeds explanation https://www.quora.com/What-is-seed-in-random-number-generation
